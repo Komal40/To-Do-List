@@ -1,0 +1,40 @@
+body{
+    background-color: yellow;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.787);
+    /* height:25rem; */
+    width:23vw;
+    border: 5px solid blue ;
+    border-radius: 15px;
+    margin: auto;
+    margin-top:8%;
+}
+
+.container h1{
+    color:white;
+    text-align: center;
+}
+
+.particular{
+    width:17rem;
+    height:1.5rem;
+    border: 1px solid white;
+    margin:auto;
+    margin-bottom:1rem;
+    border-radius: 3px;
+    color: white;
+    overflow: auto;
+}
+
+.particular button{
+    float: right;
+    height: 1.5rem;
+    border:none;
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+    margin-left:4px;
+}
+
